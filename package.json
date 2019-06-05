@@ -12,17 +12,7 @@
       "./test/helpers/setup-browser-env.js"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/markthethomas/react-testing-components-enzyme.git"
-  },
-  "author": "Mark Thomas <markthethomas@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/markthethomas/react-testing-components-enzyme/issues"
-  },
-  "homepage": "https://github.com/markthethomas/react-testing-components-enzyme#readme",
-  "devDependencies": {
+ "devDependencies": {
     "ava": "^0.12.0",
     "babel-core": "^6.6.4",
     "babel-loader": "^6.2.4",
